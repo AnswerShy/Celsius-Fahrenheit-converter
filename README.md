@@ -1,6 +1,4 @@
-# practichna2
-
-A new Flutter project.
+# Celsius-Fahrenheit-converter
 
 ## Getting Started
 
